@@ -43,5 +43,5 @@ for ($i=0; $i < count($lines); $i++) {
         }
     }
 }
-var_dump($values);
+
 print(array_sum($values));
